@@ -13,14 +13,14 @@
 As a Web Application Developer, I am capable of creating a Web presence from scratch - from concept, navigation, layout, and programming. Utilizing current best practices in Web development, I am proficient at writing well-designed, testable, and efficient code. I am a fast learner, hard worker, and team player who is proficient in multiple scripting languages and programming languages.
 
 <h2 align="left">👨‍💻 Skills & Experiance:</h2>
-✅ WordPress
-✅ Laravel
-✅ Codeigniter
-✅ JavaScript
-✅ Jquery
-✅ Ajax
-✅ PHP
-✅ HTML5 / CSS3 / SASS / Bootstrap
-✅ Photoshop / Illustrator
+✅ WordPress <br>
+✅ Laravel <br>
+✅ Codeigniter <br>
+✅ JavaScript <br>
+✅ Jquery <br>
+✅ Ajax <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minulhasanrokan" alt="minulhasanrokan" /></a> </p>
