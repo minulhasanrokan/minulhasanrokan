@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/MdMinulHasan3" target="blank"><img src="https://img.shields.io/twitter/follow/MdMinulHasan3?logo=twitter&style=for-the-badge" alt="MdMinulHasan3" /></a> </p>
 🚀 About Me
-<hr>
+
 As a Web Application Developer, I am capable of creating a Web presence from scratch - from concept, navigation, layout, and programming. Utilizing current best practices in Web development, I am proficient at writing well-designed, testable, and efficient code. I am a fast learner, hard worker, and team player who is proficient in multiple scripting languages and programming languages.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minulhasanrokan" alt="minulhasanrokan" /></a> </p>
