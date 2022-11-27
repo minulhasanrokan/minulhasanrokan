@@ -23,6 +23,9 @@ As a Web Application Developer, I am capable of creating a Web presence from scr
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
 
+<h2>☕ Connect with me!</h2>
+<a href="https://fb.com/minulhasanrokan.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Minul Hasan Rokan" height="30" width="40" /></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minulhasanrokan&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minulhasanrokan&theme=tokyonight)
