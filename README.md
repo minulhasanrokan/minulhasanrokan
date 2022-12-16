@@ -4,6 +4,8 @@
 👑 I am Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
+🖥️  See my portfolio at [Md. Minul Hasan Rokan](http://minulhasan.com)<br>
+✉️  You can contact me at [minulhasanrokan@gmail.com](mailto:minulhasanrokan@gmail.com)<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minulhasanrokan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
