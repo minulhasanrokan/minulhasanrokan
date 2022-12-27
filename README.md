@@ -6,7 +6,7 @@
 🎤 Like to share my knowledge <br>
 🖥️  See my portfolio at [Md. Minul Hasan Rokan](http://minulhasan.com)<br>
 ✉️  You can contact me at [minulhasanrokan@gmail.com](mailto:minulhasanrokan@gmail.com)<br>
-![image](https://user-images.githubusercontent.com/70903774/209713142-3deb55f7-9cc0-425a-b0d8-16229d6bd088.png)
+<g-emoji class="g-emoji" alias="envelope" fallback-src="ttps://user-images.githubusercontent.com/70903774/209713142-3deb55f7-9cc0-425a-b0d8-16229d6bd088.png">✉️</g-emoji>
  You can Call me at [+8801627197089](tel:+8801627197089)<br>
 ![image](https://user-images.githubusercontent.com/70903774/209713154-aa89dc5c-d14a-43e4-94d5-dd67e163812b.png)
  You can WhatsApp me at +8801627197089<br>
