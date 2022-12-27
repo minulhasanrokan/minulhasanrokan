@@ -6,6 +6,8 @@
 🎤 Like to share my knowledge <br>
 🖥️  See my portfolio at [Md. Minul Hasan Rokan](http://minulhasan.com)<br>
 ✉️  You can contact me at [minulhasanrokan@gmail.com](mailto:minulhasanrokan@gmail.com)<br>
+✉️  You can Call me at [+8801627197089](tel:+8801627197089)<br>
+✉️  You can WhatsApp me at +8801627197089<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minulhasanrokan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
