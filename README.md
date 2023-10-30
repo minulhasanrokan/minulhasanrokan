@@ -25,6 +25,9 @@ Let's connect to discuss potential collaborations, industry insights, or explore
 ✅ Jquery <br>
 ✅ Ajax <br>
 ✅ PHP <br>
+✅ Oracle Database <br>
+✅ MySql Database <br>
+✅ Sql Server Database <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
 
