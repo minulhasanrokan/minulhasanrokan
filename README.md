@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Minul Hasan Rokan</h1>
 <h3 align="center">A Passionate Software Developer From Bangladesh</h3>
 
-👑 I am Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
 🖥️  See my portfolio at [Md. Minul Hasan Rokan](http://minulhasan.com)<br>
