@@ -10,7 +10,7 @@
 
 <h2 align="left">🚀 About Me:</h2>
 
-Experienced Programmer and Solutions Architect specializing in PHP (Laravel & CodeIgniter) with a strong foundation in database management (Oracle, MySQL, SQL Server). I bring over 3 years of expertise in developing ERP and banking solutions that streamline operations, enhance data security, and drive business efficiency.
+Experienced Programmer and Solutions Architect specializing in PHP (Laravel & CodeIgniter) with a strong foundation in database management (Oracle, MySQL, SQL Server). I bring over 4 years of expertise in developing ERP and banking solutions that streamline operations, enhance data security, and drive business efficiency.
 
 My passion lies in crafting custom software solutions that empower businesses to excel in the ever-evolving world of finance and enterprise resource planning. I take pride in my ability to create scalable, high-performance systems that meet the unique demands of the banking sector and ERP platforms.
 
