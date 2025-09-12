@@ -9,21 +9,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minulhasanrokan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <h2 align="left">🚀 About Me:</h2>
+Experienced Programmer & Solutions Architect specializing in PHP (Laravel & CodeIgniter) and Go Lang, with a strong foundation in database management (Oracle, MySQL, SQL Server). I bring over 4 years of expertise in developing ERP and banking solutions that streamline operations, enhance data security, and drive business efficiency.
 
-Experienced Programmer and Solutions Architect specializing in PHP (Laravel & CodeIgniter) with a strong foundation in database management (Oracle, MySQL, SQL Server). I bring over 4 years of expertise in developing ERP and banking solutions that streamline operations, enhance data security, and drive business efficiency.
+I am passionate about crafting custom software solutions that empower businesses to excel in the rapidly evolving world of finance and enterprise resource planning. I take pride in building scalable, high-performance systems tailored to the unique demands of the banking sector and ERP platforms.
 
-My passion lies in crafting custom software solutions that empower businesses to excel in the ever-evolving world of finance and enterprise resource planning. I take pride in my ability to create scalable, high-performance systems that meet the unique demands of the banking sector and ERP platforms.
-
-Let's connect to discuss potential collaborations, industry insights, or explore ways to leverage technology to achieve your business goals. I'm always eager to share knowledge and contribute to innovative projects that shape the future of finance and business operations.
+Let’s connect to explore collaborations, industry insights, and innovative technology solutions that help achieve business goals. I’m always eager to share knowledge and contribute to projects that shape the future of finance and enterprise operations.
 
 <h2 align="left">👨‍💻 Skills & Experiance:</h2>
 ✅ WordPress <br>
 ✅ Laravel <br>
+✅ ECHO <br>
 ✅ Codeigniter <br>
 ✅ JavaScript <br>
 ✅ Jquery <br>
 ✅ Ajax <br>
 ✅ PHP <br>
+✅ GO <br>
 ✅ Oracle Database <br>
 ✅ MySql Database <br>
 ✅ Sql Server Database <br>
