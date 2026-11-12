@@ -117,20 +117,18 @@ Currently serving as **Programmer at [MicroMac Techno Valley Ltd.](https://micro
 
 ### 📊 GitHub Activity & Metrics
 
-<!-- Streak Stats (High Reliability) -->
+<!-- Streak Stats (100% Uptime Guaranteed) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minulhasanrokan&theme=tokyonight&hide_border=true&background=060913&ring=0284c7&fire=0284c7&currStreakLabel=0284c7" alt="GitHub Streak" width="97%" />
 </div>
 
-<!-- Interactive Activity Graph -->
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minulhasanrokan&theme=tokyo-night&hide_border=true&area=true" alt="Minul Hasan Contribution Graph" width="97%" />
-</div>
-
-<!-- GitHub Trophies -->
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=minulhasanrokan&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" width="97%" />
-</div>
+<!-- High-Reliability Live Edge Metrics -->
+<p align="center" style="margin-top: 12px;">
+  <img src="https://img.shields.io/github/followers/minulhasanrokan?label=Followers&style=for-the-badge&color=0284c7&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/Public_Repositories-10+-0284c7?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Enterprise_Solutions-13_Systems-059669?style=for-the-badge&logo=server&logoColor=white" alt="Solutions" />
+  <img src="https://img.shields.io/badge/Core_Banking-Finacle_%E2%80%A2_Ababil_%E2%80%A2_BankUltimus-334155?style=for-the-badge&logo=vault&logoColor=white" alt="Banking" />
+</p>
 
 ---
 
