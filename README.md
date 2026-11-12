@@ -117,13 +117,19 @@ Currently serving as **Programmer at [MicroMac Techno Valley Ltd.](https://micro
 
 ### 📊 GitHub Activity & Metrics
 
+<!-- Streak Stats (High Reliability) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minulhasanrokan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060913&title_color=0284c7&text_color=94a3b8&icon_color=0284c7" alt="Minul Hasan GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minulhasanrokan&layout=compact&theme=tokyonight&hide_border=true&bg_color=060913&title_color=0284c7&text_color=94a3b8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minulhasanrokan&theme=tokyonight&hide_border=true&background=060913&ring=0284c7&fire=0284c7&currStreakLabel=0284c7" alt="GitHub Streak" width="97%" />
 </div>
 
+<!-- Interactive Activity Graph -->
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minulhasanrokan&theme=tokyonight&hide_border=true&background=060913&ring=0284c7&fire=0284c7&currStreakLabel=0284c7" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minulhasanrokan&theme=tokyo-night&hide_border=true&area=true" alt="Minul Hasan Contribution Graph" width="97%" />
+</div>
+
+<!-- GitHub Trophies -->
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=minulhasanrokan&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" width="97%" />
 </div>
 
 ---
