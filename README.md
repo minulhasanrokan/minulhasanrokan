@@ -55,7 +55,7 @@ Currently serving as **Programmer at [MicroMac Techno Valley Ltd.](https://micro
 #### ⚙️ Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel_10%2F11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/Go_(Golang)-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/Echo_Framework-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Echo" />
