@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Banner -->
   <a href="https://minulhasan.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0284C7&center=true&vCenter=true&random=false&width=650&height=50&lines=Md.+Minul+Hasan;Software+Engineer+%7C+Core+Banking+Specialist;FinTech+Middleware+%7C+goAML+%7C+BBDAWAR;Golang+%7C+PHP+%2F+Laravel+%7C+.NET+Architect" alt="Md. Minul Hasan - Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0284C7&center=true&vCenter=true&random=false&width=650&height=50&lines=Md.+Minul+Hasan;Software+Engineer+%7C+Core+Banking+Specialist;FinTech+Middleware+%7C+goAML+%7C+BBDAWAR;Golang+%7C+PHP+%2F+Laravel" alt="Md. Minul Hasan - Typing Banner" />
   </a>
 
   <p align="center">
